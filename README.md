@@ -1,12 +1,13 @@
-# A New Beginning.
+# A Project Phoenix Fork
 
 -- READ HERE! --
 
-As of June 2020, Phoenix has officially been killed off.
-The code has been abandoned. Please feel free to use the remaining code to revive Phoenix.
-You will need Splash Creativity (make sure to keep it under 45 characters or it might not display completely!), good patching skills, and stuff to add overtime.
-You need InnoSetup to Re-Create the Installer (You may use my .iss files to remake the structure, or use your own custom installer).
+Hey, original developer here. I abandoned DjStuff4 many months after. The original code needs heavy re-writes, so you have all freedom to re-write many elements of Phoenix's code to fix it up yourself.
+If you wish to play with my files, you need InnoSetup to create the installers.
 If you want to play with Toast's Files, you need Visual Basic 2010 Express. I haven't tested with other editions.
+
+This edition was last relevant in June 2020. This is a 2022 save.
+
 
 
 
