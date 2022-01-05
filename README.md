@@ -1,16 +1,16 @@
 # EPSDK
 
-The custom SDK for the EP.
-Uses WPF VB.NET .NET 4.0.
+## The custom SDK for the EP. In desperate need of a re-write.
+## Uses WPF VB.NET .NET 4.0.
 
-Icon for the BMC is from: http://www.designcontest.com
+### Icon for the BMC is from: http://www.designcontest.com
 
 
-BMC is based on Bakonbot's Map converter found here: https://github.com/BakonBot/legacy-place-converter
+### BMC is based on Bakonbot's Map converter found here: https://github.com/BakonBot/legacy-place-converter
 
-Some code was taken from stackoverflow.
+# Some code was taken from stackoverflow.
 
-Example config.ini file:
+### Example config.ini file:
 ~~~~~~~~ 
 
 [NovetusSDK]
